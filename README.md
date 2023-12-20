@@ -28,15 +28,20 @@ The Expense Tracker is a Python program that manages individual financial expens
 ## Expense
 ### Attributes
 `id`: Unique identifier generated as a UUID string.
+
 `title`: String representing the title of the expense.
+
 `amount`: Float representing the amount of the expense.
+
 `created_at`: Timestamp indicating when the expense was created (UTC).
+
 `updated_at`: Timestamp indicating the last time the expense was updated (UTC).
 
 
 
 ### Methods
 `update_expense(title, amount)`: Updates the expense details.
+
 `to_dict()`: Returns a dictionary representation of the expense.
 
 
@@ -49,9 +54,13 @@ The Expense Tracker is a Python program that manages individual financial expens
 
 ### Methods
 `add_expense(expense)`: Adds an expense to the collection.
+
 `remove_expense(expense_id)`: Removes an expense from the collection.
+
 `get_expense_by_id(expense_id)`: Retrieves an expense by ID.
+
 `get_expense_by_title(expense_title)`: Retrieves expenses by title.
+
 `to_dict()`: Returns a list of dictionaries representing expenses.
 
 
@@ -65,7 +74,7 @@ The Expense Tracker is a Python program that manages individual financial expens
 
 ## Clone Repo
 
-Copy link below and paste on yout Git to clone the repository:
+Copy link below and paste on yout Git to clone the repository.
 
    ```bash
    git clone https://github.com/victorcezeh/Object_Oriented_Programming_Project.git
@@ -75,7 +84,7 @@ Copy link below and paste on yout Git to clone the repository:
 
 ## Usage
 
-Run the Expense Tracker with the code below
+Run the Expense Tracker with the code below.
 
 ```bash
 python main.py
