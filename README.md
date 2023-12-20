@@ -69,8 +69,9 @@ python main.py
 
 ## Project Structure
 
-#### `README.md`: Project documentation
-#### `main.py`: The main script to run the Expense Tracker.
+#### `Object_Oriented_Programming.py`: This code containes the Expense and ExpenseDataBase Class Implementations.
+#### `README.md`: Project documentation.
+#### `main.py`: The main script to test run the Expense Tracker.
 
 ## Contributing
 
