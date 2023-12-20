@@ -52,7 +52,7 @@ The Expense Tracker is a Python program that manages individual financial expens
 
 ## Clone Repo
 
-Copy link below and paste on yout Git to clone the repository:**
+Copy link below and paste on yout Git to clone the repository:
 
    ```bash
    git clone https://github.com/victorcezeh/Object_Oriented_Programming_Project.git
