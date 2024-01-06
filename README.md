@@ -3,7 +3,7 @@
 ## The goal of this project is to assess my understanding of object-oriented programming (OOP) concepts in Python. I am tasked with implementing two classes, Expense and ExpenseDatabase to model and manage financial expenses. This project tested my proficiency in defining classes, utilizing class attributes and methods as well as handling time-related functionalities.
 
 
-### Table of Contents
+## Table of Contents
 
 - [Getting Started](#Getting-Started)
   - [Tools Used](#Tools-Used)
@@ -14,7 +14,7 @@
 
 
 
-### Getting Started
+## Getting Started
 
 The Expense Tracker is a Python program that manages individual financial expenses. It consists of two classes: `Expense` and `ExpenseDataBase`.
 
