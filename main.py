@@ -16,10 +16,16 @@ class Expense:
         self.created_at = datetime.utcnow()
         self.updated_at = self.created_at
 
-    def update_expense(self, title, amount):
+    def update_expense(self, title=None, amount=None):
         # This method updates expense details
-        self.title = title
-        self.amount = amount
+        if title is not None:
+            print(f"Updating title to: {title}")
+            self.title = title
+        if amount is not None:
+            print(f"Updating amount to: {amount}")
+            self.amount = amount
+        if title is None and amount is None:
+            print("No updates were made.")
         self.updated_at = datetime.utcnow()
 
     def to_dict(self):
