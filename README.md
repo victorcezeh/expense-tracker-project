@@ -1,5 +1,7 @@
 # Object-Oriented programming (OOP) Project
 
+![Mood through out this project!](https://images.pexels.com/photos/52608/pexels-photo-52608.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+
 ## The goal of this project is to assess my understanding of object-oriented programming (OOP) concepts in Python. I am tasked with implementing two classes, Expense and ExpenseDatabase to model and manage financial expenses. This project tested my proficiency in defining classes, utilizing class attributes and methods as well as handling time-related functionalities.
 
 
