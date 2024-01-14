@@ -97,7 +97,7 @@ python main.py
 
 ## Project Structure
 
-`Object_Oriented_Programming.py`: This code containes the Expense and ExpenseDataBase Class Implementations.
+`Object_Oriented_Programming.py`: This file contains the Expense and ExpenseDataBase Class Implementations code.
 
 `README.md`: Project documentation.
 
