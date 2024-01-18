@@ -12,6 +12,7 @@
   - [Clone Repo](#Clone-Repo)
   - [Usage](#Usage)
 - [Project Structure](#Project-Structure)
+- [Acknowledgement](#Acknowledgement)
 - [Contributing](#Contributing)
 
 
@@ -102,6 +103,12 @@ python main.py
 `README.md`: Project documentation.
 
 `main.py`: The main script to test run the Expense Tracker.
+
+
+
+## Acknowledgement
+
+A huge thank you to [Altschool Africa](https://altschoolafrica.com/) for equipping me with the necessary skillset to take on this project.
 
 
 
