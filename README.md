@@ -1,4 +1,4 @@
-# Object-Oriented programming (OOP) Project
+# Object-Oriented programming (OOP) Project - Expense Tracker
 
 ![Object-Oriented Programming!](https://images.pexels.com/photos/577585/pexels-photo-577585.jpeg)
 
